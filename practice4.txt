@@ -1,0 +1,10 @@
+Dòng 1: Phần đầu file
+Dòng 2: Thông tin cơ bản
+Dòng 3: Dữ liệu quan trọng
+
+Dòng 5: Phần giữa file
+Dòng 6: Nội dung cần chỉnh sửa
+Dòng 7: Thông tin bổ sung
+
+Dòng 9: Phần cuối file
+Dòng 10: Kết thúc document
